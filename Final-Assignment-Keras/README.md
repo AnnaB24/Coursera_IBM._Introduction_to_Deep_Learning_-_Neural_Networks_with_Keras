@@ -1,4 +1,5 @@
 **Peer-graded Assignment: Build a Regression Model in Keras**
+
 **A.** Build a baseline model **(5 marks)**
 
 Use the Keras library to build a neural network with the following:
